@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_bkg_color">#11457E</color>
+    <color name="screen_bkg_color">#D7141A</color>
+    <color name="text_color">#2d2d2a</color>
+</resources>
