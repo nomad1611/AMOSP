@@ -5,4 +5,7 @@
     <color name="btn_bkg_color">#9526547c</color>
     <color name="screen_bkg_color">#fffcf9</color>
     <color name="text_color">#2d2d2a</color>
+    <color name = "fr_1">#000091</color>
+    <color name = "fr_2">#FFFFFF</color>
+    <color name = "fr_3">#E1000F</color>
 </resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AMOSP</string>
+    <string name="group"><u>Programmation appliquée </u></string>
+    <string name="student_Name"><b>Nom de l\'étudiant</b></string>
+    <string name="pp">PP-41</string>
+    <string name="menu_name">Menu des tâches de laboratoire</string>
+    <string name="label_text">Entrez le texte :</string>
+    <string name="entry_hint">champ de saisie</string>
+    <string name="backBtn">← Retour</string>
+    <string name="task1">Tâche 1 : Animation</string>
+    <string name="task3">Tâche 3 : RelativeLayout</string>
+</resources>

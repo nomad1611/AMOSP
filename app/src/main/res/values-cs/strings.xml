@@ -3,4 +3,10 @@
     <string name="group"><u>Programování aplikací </u></string>
     <string name="student_Name"><b>Jméno studenta</b></string>
     <string name="pp">PP-41</string>
+    <string name="menu_name">Menu laboratorních úkolů</string>
+    <string name="label_text">Zadejte text:</string>
+    <string name="entry_hint">vstupní pole</string>
+    <string name="backBtn">← Zpět</string>
+    <string name="task1">Úkol 1: Animace</string>
+    <string name="task3">Úkol 3: RelativeLayout</string>
 </resources>
