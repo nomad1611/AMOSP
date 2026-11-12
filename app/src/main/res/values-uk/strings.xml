@@ -3,4 +3,10 @@
     <string name="group"><u>Прикладне програмування:</u></string>
     <string name="student_Name"><b>Ім\'я студента:</b></string>
     <string name="pp">ПП-41</string>
+    <string name="menu_name">Меню завдань лабораторної роботи</string>
+    <string name="label_text">Введіть текст:</string>
+    <string name="entry_hint">поле введення</string>
+    <string name="backBtn">← Назад</string>
+    <string name="task1">Завдання 1: Анімація</string>
+    <string name="task3">Завдання 3: RelativeLayout</string>
 </resources>

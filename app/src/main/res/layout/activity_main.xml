@@ -9,6 +9,23 @@
     android:gravity="center_horizontal"
     android:background="@color/screen_bkg_color">
 
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:text="@string/menu_name" />
+
+    <Spinner
+        android:id="@+id/spinner_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp" />
+
     <Button
         android:id="@+id/button_PP"
         android:layout_width="117dp"
@@ -38,4 +55,5 @@
         android:textSize="20sp"
         tools:layout_editor_absoluteX="141dp"
         tools:layout_editor_absoluteY="124dp" />
+
 </LinearLayout>

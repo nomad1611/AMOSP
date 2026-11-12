@@ -3,4 +3,17 @@
     <string name="group"><u>Applied Programming: </u></string>
     <string name="student_Name"><b>Name of the student</b></string>
     <string name="pp">PP-41</string>
+    <string name="menu_name">Menu of Laboratory Tasks</string>
+    <string name="label_text">Enter text:</string>
+    <string name="entry_hint">input field</string>
+    <string-array name="string_array_menu">
+        <item>Task 2: Flags and localizations (Main)</item>
+        <item>Task 1: Animation</item>
+        <item>Task 3: Relative Layout</item>
+    </string-array>
+    <string name="backBtn">← Back</string>
+    <string name="task1">Task1: Animation</string>
+    <string name="task3">Task3: RelativeLayout</string>
+
+
 </resources>
